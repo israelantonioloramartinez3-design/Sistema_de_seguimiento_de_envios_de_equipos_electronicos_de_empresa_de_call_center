@@ -1,1 +1,16 @@
-Este es el documento de requisitos funcionales.
+Este es el documento de requisitos funcionales. Aqui detallo 3 requisitos funcionales
+
+1. Registro de envíos de equipos electrónicos
+El sistema debe permitir registrar los envíos de equipos electrónicos,
+ incluyendo información como el código del envío, tipo de equipo,
+  número de serie, fecha de envío, destinatario y dirección de entrega.
+
+2. Seguimiento del estado de los envíos
+El sistema debe permitir consultar y actualizar el estado de cada envío,
+ indicando si está pendiente, en tránsito, entregado o presenta algún 
+ inconveniente durante el transporte.
+
+3. Confirmación de entrega de los equipos
+El sistema debe permitir registrar la confirmación de entrega de los equipos
+ electrónicos, incluyendo la fecha de recepción, el nombre de la persona que
+  recibe y las observaciones correspondientes.
